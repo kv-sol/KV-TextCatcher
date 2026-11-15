@@ -56,5 +56,5 @@ at the same URL.
 ## Contact
 
 Questions or concerns: open an issue at
-<https://github.com/slava-konashkov/KV-TextCatcher/issues> or email
+<https://github.com/kv-sol/KV-TextCatcher/issues> or email
 `slava@konashkov.com`.

@@ -8,7 +8,7 @@ Menu-bar OCR for macOS. Press a hotkey, drag a region, get the text in your clip
 
 ## Install
 
-[**⬇ Download KV-TextCatcher.dmg**](https://slava-konashkov.github.io/KV-TextCatcher/KV-TextCatcher.dmg) (always the latest, ≈700 KB).
+[**⬇ Download KV-TextCatcher.dmg**](https://kv-sol.github.io/KV-TextCatcher/KV-TextCatcher.dmg) (always the latest, ≈700 KB).
 
 Drag `KV-TextCatcher.app` into `/Applications`, launch, and grant **Screen Recording** permission in *System Settings → Privacy & Security → Screen Recording* the first time you capture. The DMG is signed with a Developer ID and notarised by Apple — no Gatekeeper warning, no `xattr` workaround.
 
@@ -49,8 +49,8 @@ OCR works best on text that's at least ~12 pt and has reasonable contrast agains
 
 ## Privacy
 
-The app makes **no** network calls, has no accounts, and stores nothing beyond your selected hotkey + a couple of toggles in `UserDefaults`. Captured pixels are processed in memory by Apple's Vision framework on your Mac and discarded. Full policy: [PRIVACY.html](https://slava-konashkov.github.io/KV-TextCatcher/PRIVACY.html).
+The app makes **no** network calls, has no accounts, and stores nothing beyond your selected hotkey + a couple of toggles in `UserDefaults`. Captured pixels are processed in memory by Apple's Vision framework on your Mac and discarded. Full policy: [PRIVACY.html](https://kv-sol.github.io/KV-TextCatcher/PRIVACY.html).
 
 ---
 
-*Sources live in a separate private repo. This public repo only carries the README, privacy policy, and the latest DMG so the download URL stays stable across versions. See all KV-* apps at [github.com/slava-konashkov](https://github.com/slava-konashkov).*
+*Sources live in a separate private repo. This public repo only carries the README, privacy policy, and the latest DMG so the download URL stays stable across versions. See all KV-* apps at [github.com/kv-sol](https://github.com/kv-sol).*
